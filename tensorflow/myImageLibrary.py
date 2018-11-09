@@ -1,5 +1,4 @@
 import numpy as np
-import pydot
 import scipy.misc
 import cv2
 import glob
@@ -7,7 +6,6 @@ import os
 import math
 import pickle
 import base64
-
 
 def showimage(title,img):
     cv2.imshow(title,img)
