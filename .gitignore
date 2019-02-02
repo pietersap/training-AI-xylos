@@ -12,7 +12,6 @@ flightDelay/WeatherDataset.csv
 flightDelay/WeatherDataset.csv
 *desktop.ini
 flightDelay/
-flightDelay_/
 regression/FlightDelaysData_clean.csv
 regression/FlightDelaysData.csv
 regression/WeatherDataset.csv
@@ -21,4 +20,7 @@ tensorflow/images/
 tensorflow/images_all/
 clustering/original_data/
 clustering/questionData.csv
+mount_drive.ipynb
+desktop.ini
+**/desktop.ini
 
