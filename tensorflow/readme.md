@@ -1,0 +1,1 @@
+Save *labels.csv* and folders *images/* and *images_all/* here.
