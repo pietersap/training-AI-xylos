@@ -1,6 +1,8 @@
 **/.ipynb_checkpoints/
 *.ini
 
+xylos-ai-files-data/
+
 # clustering
 clustering/questionData.csv
 
